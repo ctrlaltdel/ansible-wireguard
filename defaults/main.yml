@@ -4,12 +4,12 @@ wireguard_networks: []
 # wireguard_networks:
 #   - wg0
 # wireguard_wg0_peers:
-#   - foobar:
-#       public_key:
-#       allowed_ips:
-#       # endpoint:
-#       # preshared_key:
-#       # persistent_keepalive:
+#   foobar:
+#     public_key:
+#     allowed_ips:
+#     # endpoint:
+#     # preshared_key:
+#     # persistent_keepalive:
 
 # wireguard_wg0_interface:
 #   address:
